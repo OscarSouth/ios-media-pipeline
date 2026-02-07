@@ -1,0 +1,34 @@
+# Project directories
+projects/
+project_manifests/
+
+# Python
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# a-Shell specific
+.a-shell/
+
+# Scratchpad
+scratchpad/
+
+# Agentic
+.mcp.json
